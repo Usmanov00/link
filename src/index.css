@@ -3,20 +3,11 @@
 
 body {
   margin: 0;
-
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-ul {
-    margin-top: 185px;
-}
 
-li {
-    background: #FC0fC0;
-    opacity: 0.5;
-
-}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
@@ -30,7 +21,7 @@ body {
     font-family: sans-serif;
     margin: 0;
     padding: 16px;
-    background: url("../src/assets/images/back(1).png") ;
+    background: url("../src/assets/images/back.jpg") ;
 }
 .wrap {
     width: 100%;
@@ -90,8 +81,21 @@ span {
     width: 80%;
 }
 
+
+
 ul {
+    margin-top: 185px;
     padding: 0;
+}
+li {
+    background: #000;
+    border-radius: 10px;
+
+}
+
+.itemColor {
+    background-color: #2cb742;
+    opacity: 1;
 }
 
 
