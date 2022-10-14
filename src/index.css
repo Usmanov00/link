@@ -171,6 +171,24 @@ li {
 
 }
 
+.hr {
+    width: 80px;
+    margin-left: 150px;
+    align-items: center;
+    text-align: center;
+    color: black;
+
+    height: 1px;
+    background-color: #0c0707;
+    border: none;
+}
+
+hr {
+    height: 1px;
+    background-color: #0c0a0a;
+    border: none;
+}
+
 
 
 

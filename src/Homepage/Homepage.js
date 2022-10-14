@@ -21,6 +21,9 @@ const Homepage = () => {
               <div><img src="https://cdn-icons-png.flaticon.com/512/44/44645.png" alt="" className="linkLogo"/></div>
               <p>Сайт</p>
             </a></li>
+            <div className="hr">
+              <hr/>
+            </div>
             <li><a href="https://2gis.kg/bishkek/search/fen/firm/70000001024590847?m=74.575869%2C42.871204%2F19.97"
                    className="link">Молодая гвардия (Адресс на карте)
               <span><br/>Главный фелиал</span>
@@ -32,6 +35,9 @@ const Homepage = () => {
               </a>
               <p/>
             </li>
+            <div className="hr">
+              <hr/>
+            </div>
             <li><a href="https://2gis.kg/bishkek/search/fen/firm/70000001024590847?m=74.575869%2C42.871204%2F19.97"
                    className="link">Боконбаева 96А (Адресс на карте)
               <span><br/>FEN маркет</span>
@@ -44,6 +50,9 @@ const Homepage = () => {
               </a>
               <p/>
             </li>
+            <div className="hr">
+              <hr/>
+            </div>
             <li><a href="https://2gis.kg/bishkek/search/fen/firm/70000001024590847?m=74.575869%2C42.871204%2F19.97"
                    className="link">Орто-Сай (Адресс на карте)
               <span><br/>Все для салонов красоты</span>
@@ -55,6 +64,9 @@ const Homepage = () => {
               </a>
               <p/>
             </li>
+            <div className="hr">
+              <hr/>
+            </div>
             <li><a href="https://2gis.kg/bishkek/search/fen/firm/70000001024590847?m=74.575869%2C42.871204%2F19.97"
                    className="link">Аламедин (Адресс на карте)
               <span><br/>Все для салонов красоты</span>
@@ -66,6 +78,9 @@ const Homepage = () => {
               </a>
               <p/>
             </li>
+            <div className="hr">
+              <hr/>
+            </div>
             <li><a href="https://2gis.kg/bishkek/search/fen/firm/70000001024590847?m=74.575869%2C42.871204%2F19.97"
                    className="link">Аламедин-1 (Адресс на карте)
               <span><br/>Все для салонов красоты</span>
@@ -77,6 +92,9 @@ const Homepage = () => {
               </a>
               <p/>
             </li>
+            <div className="hr">
+              <hr/>
+            </div>
             <li><a href="https://2gis.kg/bishkek/search/fen/firm/70000001024590847?m=74.575869%2C42.871204%2F19.97"
                    className="link">Ахунбаева (Адресс на карте)
               <span><br/>Все для салонов красоты</span>
@@ -88,7 +106,9 @@ const Homepage = () => {
               </a>
               <p/>
             </li>
-
+            <div className="hr">
+              <hr/>
+            </div>
             <li className="black itemsCenter itemsInBox itemBack">
               <img src={whatsapp} alt="" width={30}/>
               <a href="https://wa.me/+996706609030" className="link"> Менеджер по оборудованию
