@@ -1,5 +1,8 @@
 import React from 'react';
 import whatsapp from "../../src/assets/images/whatsapp-svgrepo-com (1).svg"
+import photo1 from "../../src/assets/images/photo1.jpg"
+import photo2 from "../../src/assets/images/photo2.jpg"
+import photo3 from "../../src/assets/images/photo3.jpg"
 
 const Homepage = () => {
   return (
@@ -98,11 +101,16 @@ const Homepage = () => {
       </div>
       <div className="block">
         <div className="item">
-          <img src="../assets/images/photo1.jpeg" alt=""/>
+          <img src={photo1} alt=""/>
         </div>
         <div className="item">
+          <img src={photo2} alt=""/>
+        </div>
+        <div className="item">
+          <img src={photo3} alt=""/>
         </div>
       </div>
+
     </div>
   );
 };
