@@ -3,9 +3,7 @@
 
 body {
 
-
     margin: 0;
-
 }
 
 
@@ -16,7 +14,6 @@ body {
 body {
     font-family: sans-serif;
     margin: 0;
-    padding: 16px;
     background: url("../src/assets/images/2022-10-14 01.18.30.jpg") ;
 }
 .wrap {
@@ -192,6 +189,20 @@ h1 {
     font-family: 'Anton', sans-serif;
 
 }
+
+.footer {
+    background-color: #0c0a0a;
+    padding: 10px;
+    margin: 0;
+    opacity: 0.9;
+}
+
+.footer p{
+    color: #fff;
+    font-weight: 600;
+}
+
+
 
 
 
