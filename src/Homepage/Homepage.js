@@ -99,7 +99,7 @@ const Homepage = () => {
 
               <li className="black itemsCenter itemsInBox itemBack">
                 <img src={whatsapp} alt="" width={30}/>
-                <a href="https://wa.me/+996706609030" className="link"> Менеджер по оборудованию
+                <a href="https://wa.me/+996551609030" className="link"> Менеджер по оборудованию
                 </a>
                 <p/>
               </li>
@@ -123,7 +123,7 @@ const Homepage = () => {
         </div>
       </div>
       <div className="123">
-        <h1>ДЛЯ ОПТОВИКОВ</h1>
+        <h1><u><b>ДЛЯ ОПТОВИКОВ</b></u></h1>
 <div className="footer">
   <p>Для оптовых клиентов так же есть специальные прайс,который вам позволит заработовать вместе с  нами,и так же расматриваем варианты соотруничество в сфере индустри красоты. Звоните или пишите на электроную почту.</p>
 
@@ -143,10 +143,11 @@ const Homepage = () => {
     <br/>
     +996 776 60 90 30
     <br/>
+    <br/>
     Электронная почта: fen.kg@mail.ru
     <br/>
     <br/>
-    www.fen.kg  интернет магазин и сайт</p>
+    <a href="http://fen.kg/">www.fen.kg</a>  интернет магазин и сайт</p>
 </div>
       </div>
     </div>
