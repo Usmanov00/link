@@ -38,7 +38,7 @@ const Homepage = () => {
             <div className="hr">
               <hr/>
             </div>
-            <li><a href="https://2gis.kg/bishkek/search/fen/firm/70000001024590847?m=74.575869%2C42.871204%2F19.97"
+            <li><a href="https://go.2gis.com/dey5o5"
                    className="link">Боконбаева 96А (Адресс на карте)
               <span><br/>FEN маркет</span>
             </a>
@@ -46,69 +46,56 @@ const Homepage = () => {
 
             <li className="itemsCenter itemsInBox itemColor">
               <img src={whatsapp} alt="" width={30}/>
-              <a href="https://wa.me/+996706609030" className="link"> WhatsApp Боконбаева
+              <a href="https://wa.me/+996559609030" className="link"> WhatsApp Боконбаева
               </a>
               <p/>
             </li>
             <div className="hr">
               <hr/>
             </div>
-            <li><a href="https://2gis.kg/bishkek/search/fen/firm/70000001024590847?m=74.575869%2C42.871204%2F19.97"
+            <li><a href="https://go.2gis.com/26o5mz"
                    className="link">Орто-Сай (Адресс на карте)
               <span><br/>Все для салонов красоты</span>
             </a>
             </li>
             <li className="itemsCenter itemsInBox itemColor">
               <img src={whatsapp} alt="" width={30}/>
-              <a href="https://wa.me/+996706609030" className="link"> WhatsApp Орто-Сай
+              <a href="https://wa.me/+996704609030" className="link"> WhatsApp Орто-Сай
               </a>
               <p/>
             </li>
             <div className="hr">
               <hr/>
             </div>
-            <li><a href="https://2gis.kg/bishkek/search/fen/firm/70000001024590847?m=74.575869%2C42.871204%2F19.97"
+            <li><a href="https://go.2gis.com/wcswn"
                    className="link">Аламедин (Адресс на карте)
               <span><br/>Все для салонов красоты</span>
             </a>
             </li>
             <li className="itemsCenter itemsInBox itemColor">
               <img src={whatsapp} alt="" width={30}/>
-              <a href="https://wa.me/+996706609030" className="link"> WhatsApp Аламедин
+              <a href="https://wa.me/+996705609030" className="link"> WhatsApp Аламедин
               </a>
               <p/>
             </li>
             <div className="hr">
               <hr/>
             </div>
-            <li><a href="https://2gis.kg/bishkek/search/fen/firm/70000001024590847?m=74.575869%2C42.871204%2F19.97"
+            <li><a href="https://go.2gis.com/te30l1"
                    className="link">Аламедин-1 (Адресс на карте)
               <span><br/>Все для салонов красоты</span>
             </a>
             </li>
             <li className="itemsCenter itemsInBox itemColor">
               <img src={whatsapp} alt="" width={30}/>
-              <a href="https://wa.me/+996706609030" className="link"> WhatsApp Аламедин-1
+              <a href="https://wa.me/+996707609030" className="link"> WhatsApp Аламедин-1
               </a>
               <p/>
             </li>
             <div className="hr">
               <hr/>
             </div>
-            <li><a href="https://2gis.kg/bishkek/search/fen/firm/70000001024590847?m=74.575869%2C42.871204%2F19.97"
-                   className="link">Ахунбаева (Адресс на карте)
-              <span><br/>Все для салонов красоты</span>
-            </a>
-            </li>
-            <li className="itemsCenter itemsInBox itemColor">
-              <img src={whatsapp} alt="" width={30}/>
-              <a href="https://wa.me/+996706609030" className="link"> WhatsApp Ахунбаева
-              </a>
-              <p/>
-            </li>
-            <div className="hr">
-              <hr/>
-            </div>
+
             <li className="black itemsCenter itemsInBox itemBack">
               <img src={whatsapp} alt="" width={30}/>
               <a href="https://wa.me/+996706609030" className="link"> Менеджер по оборудованию
@@ -130,7 +117,12 @@ const Homepage = () => {
           <img src={photo3} alt=""/>
         </div>
       </div>
-
+      <div className="hr">
+        <hr/>
+      </div>
+      <div className="123">
+        <h1>ДЛЯ ОПТОВИКОВ</h1>
+      </div>
     </div>
   );
 };
