@@ -27,7 +27,7 @@ const Homepage = () => {
               </div>
               <li><a href="https://2gis.kg/bishkek/search/fen/firm/70000001024590847?m=74.575869%2C42.871204%2F19.97"
                      className="link">Молодая гвардия (Адресс на карте)
-                <span><br/>Главный фелиал</span>
+                <span><br/>Главный филиал</span>
               </a>
               </li>
               <li className="itemsCenter itemsInBox itemColor">
